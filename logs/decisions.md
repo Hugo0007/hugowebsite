@@ -15,3 +15,6 @@ Every significant decision (apply/skip, investment level, demo yes/no) gets one 
 - [2026-07-09] Undisclosed (n8n Community)/N8N AI Automation Developer: score 74, tier C, level 1, Apply Without Demo — perfect narrow match in low-competition channel, but undisclosed poster and $1,500/mo — income bridge only.
 - [2026-07-09] Bamboo Works/Senior AI Operations & Automation Manager: score 72, tier C, level 1, Wait — Senior/Manager title screens hard against 4 yrs / one employer; hold as fallback to the sibling Specialist application.
 - [2026-07-09] Snowball Money/AI Social Media & Automation Specialist: score 70, tier C, level 1, Archive — social-media slant, UTC+3-8 timezone preference mismatch, $1-2k/mo crypto startup; pipeline has stronger options.
+- [2026-07-09] Bamboo Works/AI Systems & Automation Consultant: score 92, tier A, level 2, Apply Immediately — Claude Code + Relevance AI explicitly demanded (candidate has both); replaces Specialist application (strong-Python requirement). One application max to this agency.
+- [2026-07-09] Axe Automation packet approved by user — READY TO SUBMIT pending manual liveness check.
+- [2026-07-09] Vidalytics packet on hold — user reviewing files. Demo packaging approved (build, show before publishing).

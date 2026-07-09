@@ -2,15 +2,46 @@
   "_schema": {
     "name": "string",
     "slug": "folder name under demos/",
-    "technologies": ["string"],
+    "technologies": [
+      "string"
+    ],
     "business_problem": "string",
     "built_for": "application id|general portfolio",
     "repo_url": "string|null",
     "live_url": "string|null",
-    "reusable_components": ["string"],
+    "reusable_components": [
+      "string"
+    ],
     "quality_score": "0-100",
     "times_reused": 0,
     "built_at": "yyyy-mm-dd"
   },
-  "demos": []
+  "demos": [
+    {
+      "name": "AI Lead-Qualification Agent (Claude + n8n + Airtable)",
+      "slug": "ai-lead-qualification-agent",
+      "technologies": [
+        "Anthropic Claude",
+        "n8n",
+        "Airtable",
+        "REST APIs",
+        "webhooks",
+        "JavaScript"
+      ],
+      "business_problem": "Autonomous lead scoring, routing, and CRM updates for lean revenue teams; 30-60% response-time reduction in production",
+      "built_for": "vidalytics-ai-automation-engineer-20260709 (seed portfolio asset, reusable pipeline-wide)",
+      "repo_url": null,
+      "live_url": null,
+      "reusable_components": [
+        "README architecture pattern",
+        "Mermaid flow diagram",
+        "Loom script template",
+        "grounded-scoring design narrative"
+      ],
+      "quality_score": null,
+      "times_reused": 0,
+      "built_at": "2026-07-09",
+      "status": "DRAFT — pending user sanitization review, workflow export, Loom recording, and publish approval"
+    }
+  ]
 }

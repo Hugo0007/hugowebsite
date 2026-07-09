@@ -37,7 +37,7 @@
       "employment_type": "Full-time",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "Make.com",
         "Zapier",
@@ -57,8 +57,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Near-perfect stack match (Make/Zapier/n8n/AI agents/APIs/JS) with agency-pace client delivery mirroring the current role. WWR reach means hundreds of applicants, so tailored resume + cover letter is the right investment; a demo will not differentiate at screening stage. Posting unverified — proxy blocked; confirm live before submitting.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "WWR direct fetch blocked by proxy; details verified via jobs.weekday.works mirror and search snippets. Near-perfect stack match. Discovered by Opportunity Scout.",
-      "status_changed_at": "2026-07-09T18:18:09+00:00",
+      "notes": "WWR direct fetch blocked by proxy; details verified via jobs.weekday.works mirror and search snippets. Near-perfect stack match. Discovered by Opportunity Scout. Packet approved by user 2026-07-09; awaiting manual submission (verify posting live first).",
+      "status_changed_at": "2026-07-09T18:21:26+00:00",
       "resume_version": "resume-v1",
       "cover_letter_version": "cover-letter-v1"
     },
@@ -146,7 +146,7 @@
       "employment_type": "Full-time (40h/week, independent contractor)",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "QUALIFIED",
       "required_skills": [
         "Make.com",
         "n8n",
@@ -166,8 +166,8 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Exact stack match including Anthropic API exposure via Claude work; 08:00-12:00 CET overlap is trivial from WAT, and posted contractor pay ($1,600-1,920/mo) filters out most Western competition — realistic odds for this candidate. Pay is below Western market (user should judge) but candidate has no floor. Gaps to mitigate honestly: LangChain, vector databases, Power Automate.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Salary posted. Exact stack match incl. Anthropic API. CET overlap trivial from WAT. Same company as senior role — apply to one, reference in strategy. Discovered by Opportunity Scout.",
-      "status_changed_at": "2026-07-09T18:18:09+00:00",
+      "notes": "Salary posted. Exact stack match incl. Anthropic API. CET overlap trivial from WAT. Same company as senior role — apply to one, reference in strategy. Discovered by Opportunity Scout. Held as fallback 2026-07-09: user chose to pursue the Consultant sibling role instead (better fit, no strong-Python requirement). Packet complete if needed.",
+      "status_changed_at": "2026-07-09T18:23:13+00:00",
       "resume_version": "resume-v1",
       "cover_letter_version": "cover-letter-v1"
     },
@@ -423,6 +423,54 @@
       "reasoning": "Eligibility now verified — the posting explicitly targets Nigeria, and $1,000-1,500/mo + incentives via Wise is workable though low. The centerpiece skill GoHighLevel is the candidate's one real gap; Zapier/n8n/CRM automation depth transfers but expect GHL screening pressure. Cheap Level 1 apply framing CRM-pipeline automation as GHL-adjacent.",
       "evaluated_at": "2026-07-09T14:00:00Z",
       "notes": "Contractor framing usually means worldwide; GHL is the only stack gap (learnable). Discovered by Opportunity Scout."
+    },
+    {
+      "id": "bamboo-works-ai-systems-automation-consultant-20260709",
+      "company": "Bamboo Works",
+      "role": "AI Systems & Automation Consultant (Claude Code & Business Automation)",
+      "url": "https://himalayas.app/companies/bamboo-works/jobs/ai-systems-automation-consultant-claude-code-business-automation",
+      "url_ats": "https://bambooworks.applytojob.com (JazzHR — locate exact posting)",
+      "source": "Himalayas / JazzHR",
+      "salary": "undisclosed (sibling roles $1,600-1,920/mo contractor band; consultant title may run higher)",
+      "remote_scope": "worldwide",
+      "remote_scope_detail": "Remote contractor via Bamboo Works staffing agency; CET overlap expected (verify)",
+      "employment_type": "Contractor (assumed, per agency pattern)",
+      "posted_date": null,
+      "discovered_at": "2026-07-09T18:23:13+00:00",
+      "status": "RESEARCHING",
+      "status_changed_at": "2026-07-09T18:23:13+00:00",
+      "required_skills": [
+        "Claude Code",
+        "n8n",
+        "Make",
+        "Zapier",
+        "Relevance AI",
+        "Anthropic LLM",
+        "Prompt Engineering",
+        "AI Agent Architecture",
+        "APIs",
+        "Webhooks",
+        "CRM (HubSpot, Salesforce, Pipedrive)",
+        "Python (listed)",
+        "OpenAI API (listed)",
+        "RAG/vector DBs (listed)",
+        "Docker (familiarity)"
+      ],
+      "preferred_skills": [
+        "business process analysis",
+        "SOPs and documentation",
+        "strategic thinking",
+        "ambiguous fast-moving environments"
+      ],
+      "company_facts": "Same agency/end-ecosystem as Specialist role. Work directly with a founder building/investing in multiple ventures; AI and automation central to growth.",
+      "score": 92,
+      "tier": "A",
+      "investment_level": 2,
+      "priority": "A",
+      "recommendation": "Apply Immediately (replaces Specialist application — one application max to this agency)",
+      "reasoning": "Better fit than the Specialist sibling: Claude Code and Relevance AI are explicitly demanded and the candidate genuinely has both — rare differentiators. Consultant framing (business acumen + SOPs + founder partnership) matches the candidate's trajectory precisely. Python/OpenAI/RAG/Docker appear as list items, not 'strong proficiency' requirements. Salary unposted; agency payment terms still unvetted.",
+      "evaluated_at": "2026-07-09T18:23:13+00:00",
+      "notes": "Evaluated inline by CACO from search snippets (JazzHR/Himalayas proxy-blocked). Verify live posting and exact JD text in browser before submission."
     }
   ]
 }
