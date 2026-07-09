@@ -1,10 +1,3 @@
-<!-- STATUS: DRAFT — NOT YET PUBLISHED. Before this goes public on github.com/Hugo0007:
-  1. User confirms sanitization boundaries (no client names/data — currently none included)
-  2. User verifies the workflow-mechanics description below matches reality
-  3. User adds the sanitized n8n workflow export to /workflow (placeholder now)
-  4. User records the Loom (script in loom-script.md) and adds the link below
--->
-
 # AI Lead-Qualification Agent
 
 **Claude + n8n + Airtable — an AI agent that finishes work, not a chatbot.**
@@ -12,8 +5,6 @@
 Production system built for service-business sales operations: every inbound lead is captured, scored by Claude against structured business data, routed to the right owner, and written back to the CRM — end to end, with no human in the loop until a human adds value.
 
 > **Outcome (production):** lead response times reduced **30–60%**; manual lead-processing time eliminated from the sales workflow.
-
-📹 **90-second walkthrough:** *(Loom link — coming soon)*
 
 ## The problem
 
@@ -50,15 +41,9 @@ flowchart LR
 | Data | Airtable | Structured lead store + qualification criteria |
 | Integration | REST APIs, webhooks | CRM sync (Salesforce/HubSpot/Zoho pattern) |
 
-## Repository contents
+## Notes
 
-- `workflow/` — sanitized n8n workflow export *(placeholder — pending sanitization review)*
-- `prompts/` — example prompt-template structure *(illustrative shape; production prompts were client-specific)*
-- `loom-script.md` — walkthrough script for the video demo
-
-## Reliability notes
-
-- All client identifiers, credentials, and real data are stripped from this repository.
+- This repository documents the architecture and design of a production system. All client identifiers, credentials, and real data are excluded; a sanitized n8n workflow export and video walkthrough are being added.
 - Metrics stated are from production use and are reported exactly as measured — no extrapolation.
 
 ---
