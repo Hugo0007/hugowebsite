@@ -12,7 +12,7 @@
 **UGOCHUKWU OKORONKWO**
 Document Automation & Integration Engineer | Workflow Automation & Systems Integration | No-Code & API Solutions
 +234 902 774 7724 | ugochukwuokoronkwo01@gmail.com | linkedin.com/in/ugochukwuokoronkwo
-Remote | Nigeria (WAT / GMT+1) | Portfolio available on request
+Remote | Nigeria (WAT / GMT+1) | Portfolio: ugo-landing.vercel.app | GitHub: github.com/Hugo0007
 
 ## Professional Summary
 
