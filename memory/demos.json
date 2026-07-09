@@ -30,7 +30,7 @@
       ],
       "business_problem": "Autonomous lead scoring, routing, and CRM updates for lean revenue teams; 30-60% response-time reduction in production",
       "built_for": "vidalytics-ai-automation-engineer-20260709 (seed portfolio asset, reusable pipeline-wide)",
-      "repo_url": null,
+      "repo_url": "https://github.com/Hugo0007/ai-lead-qualification-agent",
       "live_url": null,
       "reusable_components": [
         "README architecture pattern",
@@ -41,7 +41,7 @@
       "quality_score": null,
       "times_reused": 0,
       "built_at": "2026-07-09",
-      "status": "DRAFT — pending user sanitization review, workflow export, Loom recording, and publish approval"
+      "status": "PUBLISHED 2026-07-09 (README/architecture). Pending upgrades: sanitized n8n workflow export, Loom walkthrough."
     }
   ]
 }
