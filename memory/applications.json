@@ -183,7 +183,7 @@
       "employment_type": "Freelance (part-time, task-based)",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "3+ years automation/workflow/integration experience",
         "n8n incl. self-hosted",
@@ -204,8 +204,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Meets the stated 3+ years bar; assessment-based freelance funnel with worldwide scope and Nigeria-friendly payout rails (Payoneer/Tipalti) makes this the best immediate-income play at minimal cost. Self-hosted n8n experience is the one claim to verify honestly before applying. Runs in parallel with the full-time search without consuming the quality budget.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Nigeria-friendly payout rails. Good immediate-income freelance track alongside full-time search. Discovered by Opportunity Scout. Level 1 resume prepared. Self-hosted n8n NOT claimed (no evidence).",
-      "status_changed_at": "2026-07-09T18:57:30+00:00",
+      "notes": "Nigeria-friendly payout rails. Good immediate-income freelance track alongside full-time search. Discovered by Opportunity Scout. Level 1 resume prepared. Self-hosted n8n NOT claimed (no evidence). Packet approved by user 2026-07-09.",
+      "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1"
     },
     {
@@ -220,7 +220,7 @@
       "employment_type": "Full-time (client placement)",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "n8n workflow design/implementation",
         "third-party integrations (CRMs, marketing platforms, databases, APIs)",
@@ -236,8 +236,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Exact target-title match (Automation Engineer, #4) and the CRM/API integration requirements mirror the candidate's strongest evidence; placement model means one application can yield multiple client matches. Comp is opaque (varies by client) and placement outcomes are uncertain, so cap investment at Level 1.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Agency-style placement — one application can yield multiple client matches. Discovered by Opportunity Scout. Level 1 resume prepared.",
-      "status_changed_at": "2026-07-09T18:57:30+00:00",
+      "notes": "Agency-style placement — one application can yield multiple client matches. Discovered by Opportunity Scout. Level 1 resume prepared. Packet approved by user 2026-07-09.",
+      "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1"
     },
     {
@@ -252,7 +252,7 @@
       "employment_type": "Full-time (40h/week)",
       "posted_date": "2026-04-28",
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "2-4 years building production automations/internal tools",
         "n8n/Make/Zapier/Workato (at least one)",
@@ -270,8 +270,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Requirements read like the candidate's profile verbatim (2-4 yrs, n8n/Make/Zapier, LLM APIs incl. Anthropic, structured outputs/function calling). Main risk is staleness: posted 2026-04-28 (-10 penalty), may be filled or an evergreen staffing-pool intake. Verify the Ashby posting is still open before investing Level 2 effort.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Posted 2026-04-28 (~10 weeks old) but relisted on Jobgether recently — verify still open. Requirements match profile exactly (2-4 yrs, Anthropic function calling). Discovered by Opportunity Scout. Still listed on Ashby. Role owns internal AI automation roadmap across sales/ops/support/people.",
-      "status_changed_at": "2026-07-09T18:57:30+00:00",
+      "notes": "Posted 2026-04-28 (~10 weeks old) but relisted on Jobgether recently — verify still open. Requirements match profile exactly (2-4 yrs, Anthropic function calling). Discovered by Opportunity Scout. Still listed on Ashby. Role owns internal AI automation roadmap across sales/ops/support/people. Packet approved by user 2026-07-09.",
+      "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1",
       "cover_letter_version": "cover-letter-v1"
     },
@@ -287,7 +287,7 @@
       "employment_type": "Part-time contract (July 1, 2026 – Aug 31, 2027)",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "Zapier",
         "Make/Integromat",
@@ -306,8 +306,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Best posted comp in the pipeline ($50-80k part-time contract) with full stack match incl. Claude, and async-first culture suits WAT. Blocker to clear before submitting: Wellfound 'Ontario • Remote' tag — confirm the role is not Canada-only (unverified — proxy blocked). Wellfound volume will be high; a specific cover letter tied to business-process design is the differentiator.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Fresh (engagement starts July 2026). Salary posted. Verify Canada eligibility question at qualification stage. Discovered by Opportunity Scout. Part-time 14-month term (Jul 2026-Aug 2027), $50-80k/yr, apps open to Dec 2026. No geo restriction found. Application asks for automation examples w/ ROI + optional Loom.",
-      "status_changed_at": "2026-07-09T18:57:30+00:00",
+      "notes": "Fresh (engagement starts July 2026). Salary posted. Verify Canada eligibility question at qualification stage. Discovered by Opportunity Scout. Part-time 14-month term (Jul 2026-Aug 2027), $50-80k/yr, apps open to Dec 2026. No geo restriction found. Application asks for automation examples w/ ROI + optional Loom. Packet approved by user 2026-07-09.",
+      "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1",
       "cover_letter_version": "cover-letter-v1"
     },

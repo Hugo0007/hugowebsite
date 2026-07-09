@@ -21,3 +21,4 @@ Every significant decision (apply/skip, investment level, demo yes/no) gets one 
 - [2026-07-09] Vidalytics packet (resume+letter+outreach) approved by user — READY TO SUBMIT.
 - [2026-07-09] Bamboo Consultant packet approved by user — READY TO SUBMIT.
 - [2026-07-09] Batch 2 packets prepared (REWORK Digital L2, Global Talent Co. L2, Huzzle L1, Mindrift L1) — WAITING FOR APPROVAL.
+- [2026-07-09] Batch 2 packets (REWORK, Global Talent Co., Huzzle, Mindrift) approved by user — READY TO SUBMIT. Pipeline: 7 approved applications.
