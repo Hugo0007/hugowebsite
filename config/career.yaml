@@ -35,9 +35,10 @@ salary:
   minimum_annual: null        # intentionally null — no hard floor
   target_annual: null
 
-employment_types:
+employment_types:            # accept everything remote — widest pipeline
   - Full-time
   - Contract
+  - Freelance
 
 company_preferences:
   prioritize:
@@ -51,7 +52,8 @@ company_preferences:
     - Repeated reports of poor hiring practices
     - Ghost-job posters
 
-capacity:
+capacity:                           # full-on search: 20+ hours/week available
+  hours_per_week: 20
   max_applications_per_week: 10     # quality ceiling — CoS enforces this
   max_level4_per_week: 1            # elite (demo) applications are expensive
   deep_work_hours_per_day: 4

@@ -7,7 +7,7 @@
   "location": "Nigeria (Remote)",
   "timezone": "Africa/Lagos (WAT, UTC+1)",
   "linkedin": "https://linkedin.com/in/ugochukwuokoronkwo",
-  "github": "TODO — add your GitHub URL",
+  "github": "https://github.com/Hugo0007",
   "portfolio": "Available on request — TODO: add URL when published",
   "website": null,
   "headline": "Document Automation & Integration Engineer | Workflow Automation & Systems Integration | No-Code & API Solutions",
@@ -18,7 +18,9 @@
     "eligible_countries_without_sponsorship": ["Nigeria"],
     "notes": "Worldwide-remote roles only; remote contractor arrangements preferred. TEFL certified (Nov 2024)."
   },
-  "availability": "TODO — e.g. immediately / 2 weeks notice",
+  "availability": "Immediately",
+  "employment_types_accepted": ["Full-time", "Contract", "Freelance"],
+  "search_intensity": "Full-on search — 20+ hours/week available",
   "core_skills": [
     "Claude AI / Claude Code",
     "AI Automation",
