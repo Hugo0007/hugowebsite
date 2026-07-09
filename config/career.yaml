@@ -25,8 +25,14 @@ geography:
     - Location-restricted (unless clearly eligible per memory/profile.json)
 
 salary:
+  # Policy: NO fixed salary floor. Flow with whatever the job posting /
+  # source lists. The Qualification Strategist evaluates the posted salary
+  # (or its absence) as one signal among many — it never auto-rejects on
+  # salary. If no salary is listed, note "salary undisclosed" and score the
+  # role on fit; salary gets clarified during the process.
+  policy: use_posted_salary
   currency: USD
-  minimum_annual: null        # set a number to enable the hard salary floor
+  minimum_annual: null        # intentionally null — no hard floor
   target_annual: null
 
 employment_types:
