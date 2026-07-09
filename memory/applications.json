@@ -37,9 +37,18 @@
       "employment_type": "Full-time",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "QUALIFIED",
-      "required_skills": ["Make.com", "Zapier", "n8n", "AI agents", "custom API calls", "JavaScript and/or Python scripting"],
-      "preferred_skills": ["client project delivery at agency pace"],
+      "status": "RESEARCHING",
+      "required_skills": [
+        "Make.com",
+        "Zapier",
+        "n8n",
+        "AI agents",
+        "custom API calls",
+        "JavaScript and/or Python scripting"
+      ],
+      "preferred_skills": [
+        "client project delivery at agency pace"
+      ],
       "company_facts": "AI automation agency in hyper-growth; grown every quarter for 3 years.",
       "score": 93,
       "tier": "A",
@@ -48,7 +57,8 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Near-perfect stack match (Make/Zapier/n8n/AI agents/APIs/JS) with agency-pace client delivery mirroring the current role. WWR reach means hundreds of applicants, so tailored resume + cover letter is the right investment; a demo will not differentiate at screening stage. Posting unverified — proxy blocked; confirm live before submitting.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "WWR direct fetch blocked by proxy; details verified via jobs.weekday.works mirror and search snippets. Near-perfect stack match. Discovered by Opportunity Scout."
+      "notes": "WWR direct fetch blocked by proxy; details verified via jobs.weekday.works mirror and search snippets. Near-perfect stack match. Discovered by Opportunity Scout.",
+      "status_changed_at": "2026-07-09T14:12:11+00:00"
     },
     {
       "id": "vidalytics-ai-automation-engineer-20260709",
@@ -62,9 +72,18 @@
       "employment_type": "Full-time",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "QUALIFIED",
-      "required_skills": ["n8n", "Zapier", "custom orchestration code", "AI agents/chains/prompts", "RAG/retrieval grounding"],
-      "preferred_skills": ["MarTech domain", "cross-system automation architecture"],
+      "status": "RESEARCHING",
+      "required_skills": [
+        "n8n",
+        "Zapier",
+        "custom orchestration code",
+        "AI agents/chains/prompts",
+        "RAG/retrieval grounding"
+      ],
+      "preferred_skills": [
+        "MarTech domain",
+        "cross-system automation architecture"
+      ],
       "company_facts": "Video hosting & marketing SaaS for entrepreneurs (Austin-based, remote team). Role reports to CEO — mandate to make the company AI-native.",
       "score": 94,
       "tier": "A",
@@ -73,7 +92,8 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Highest-ceiling role in pipeline: in-house, reports to CEO with an AI-native mandate, and the stack (n8n, Zapier, agents/chains/prompts) matches; RAG/retrieval grounding is the one gap to pre-empt in the cover letter. Eastern-US overlap from WAT means afternoon/evening hours — feasible. Worth Level 3 with light networking; repurpose the existing AI lead-qualification project as proof rather than building a new demo.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Eastern US overlap from WAT (UTC+1) means afternoon/evening shift — feasible. High-visibility in-house role. Discovered by Opportunity Scout."
+      "notes": "Eastern US overlap from WAT (UTC+1) means afternoon/evening shift — feasible. High-visibility in-house role. Discovered by Opportunity Scout.",
+      "status_changed_at": "2026-07-09T14:12:11+00:00"
     },
     {
       "id": "bamboo-works-senior-ai-operations-automation-manager-20260709",
@@ -88,8 +108,18 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["n8n", "Make.com", "Zapier", "workflow design/build/maintenance"],
-      "preferred_skills": ["OpenAI API", "Anthropic API", "LangChain", "vector databases"],
+      "required_skills": [
+        "n8n",
+        "Make.com",
+        "Zapier",
+        "workflow design/build/maintenance"
+      ],
+      "preferred_skills": [
+        "OpenAI API",
+        "Anthropic API",
+        "LangChain",
+        "vector databases"
+      ],
       "company_facts": "Austria-based remote automation/ops company; multiple automation roles open.",
       "score": 72,
       "tier": "C",
@@ -112,8 +142,17 @@
       "employment_type": "Full-time (40h/week, independent contractor)",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "QUALIFIED",
-      "required_skills": ["Make.com", "n8n", "Zapier", "Power Automate", "OpenAI API", "Anthropic API", "LangChain", "vector databases"],
+      "status": "RESEARCHING",
+      "required_skills": [
+        "Make.com",
+        "n8n",
+        "Zapier",
+        "Power Automate",
+        "OpenAI API",
+        "Anthropic API",
+        "LangChain",
+        "vector databases"
+      ],
       "preferred_skills": [],
       "company_facts": "Austria-based remote company.",
       "score": 91,
@@ -123,7 +162,8 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Exact stack match including Anthropic API exposure via Claude work; 08:00-12:00 CET overlap is trivial from WAT, and posted contractor pay ($1,600-1,920/mo) filters out most Western competition — realistic odds for this candidate. Pay is below Western market (user should judge) but candidate has no floor. Gaps to mitigate honestly: LangChain, vector databases, Power Automate.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Salary posted. Exact stack match incl. Anthropic API. CET overlap trivial from WAT. Same company as senior role — apply to one, reference in strategy. Discovered by Opportunity Scout."
+      "notes": "Salary posted. Exact stack match incl. Anthropic API. CET overlap trivial from WAT. Same company as senior role — apply to one, reference in strategy. Discovered by Opportunity Scout.",
+      "status_changed_at": "2026-07-09T14:12:11+00:00"
     },
     {
       "id": "mindrift-n8n-workflow-developer-20260709",
@@ -138,8 +178,18 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["3+ years automation/workflow/integration experience", "n8n incl. self-hosted", "API integrations", "webhooks", "multi-system data sync", "English B2+"],
-      "preferred_skills": ["web scraping/data extraction", "OpenAI/Claude integration into pipelines"],
+      "required_skills": [
+        "3+ years automation/workflow/integration experience",
+        "n8n incl. self-hosted",
+        "API integrations",
+        "webhooks",
+        "multi-system data sync",
+        "English B2+"
+      ],
+      "preferred_skills": [
+        "web scraping/data extraction",
+        "OpenAI/Claude integration into pipelines"
+      ],
       "company_facts": "AI-training platform (Toloka); pays freelancers twice monthly.",
       "score": 80,
       "tier": "B",
@@ -163,7 +213,12 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["n8n workflow design/implementation", "third-party integrations (CRMs, marketing platforms, databases, APIs)", "custom nodes/scripts", "monitoring & troubleshooting"],
+      "required_skills": [
+        "n8n workflow design/implementation",
+        "third-party integrations (CRMs, marketing platforms, databases, APIs)",
+        "custom nodes/scripts",
+        "monitoring & troubleshooting"
+      ],
       "preferred_skills": [],
       "company_facts": "Talent platform placing candidates into remote roles with global companies; multiple automation openings (also AI & Automation Specialist, VP of Automation Engineering).",
       "score": 82,
@@ -188,8 +243,15 @@
       "posted_date": "2026-04-28",
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["2-4 years building production automations/internal tools", "n8n/Make/Zapier/Workato (at least one)", "LLM APIs (OpenAI, Anthropic) with prompt design, structured outputs, function calling", "instrumentation/metrics"],
-      "preferred_skills": ["RevOps/BizOps background"],
+      "required_skills": [
+        "2-4 years building production automations/internal tools",
+        "n8n/Make/Zapier/Workato (at least one)",
+        "LLM APIs (OpenAI, Anthropic) with prompt design, structured outputs, function calling",
+        "instrumentation/metrics"
+      ],
+      "preferred_skills": [
+        "RevOps/BizOps background"
+      ],
       "company_facts": "Remote staffing company for tech firms; 25,000+ talent community.",
       "score": 83,
       "tier": "B",
@@ -213,7 +275,15 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["Zapier", "Make/Integromat", "n8n", "OpenAI", "Claude", "Gemini", "business process design"],
+      "required_skills": [
+        "Zapier",
+        "Make/Integromat",
+        "n8n",
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "business process design"
+      ],
       "preferred_skills": [],
       "company_facts": "Digital agency; remote-first, async culture.",
       "score": 88,
@@ -238,7 +308,10 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["n8n", "AI-powered automation workflows (build and maintain)"],
+      "required_skills": [
+        "n8n",
+        "AI-powered automation workflows (build and maintain)"
+      ],
       "preferred_skills": [],
       "company_facts": "Poster identity behind community thread; related newer thread: https://community.n8n.io/t/n8n-ai-automation-developer-remote/299818",
       "score": 74,
@@ -263,7 +336,11 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["n8n", "social media automation", "AI content workflows"],
+      "required_skills": [
+        "n8n",
+        "social media automation",
+        "AI content workflows"
+      ],
       "preferred_skills": [],
       "company_facts": "Crypto/fintech startup.",
       "score": 70,
@@ -288,8 +365,16 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["n8n (or Make/Zapier/Airflow)", "REST/GraphQL APIs", "Python or similar for custom logic", "LLM function calling and prompting", "custom n8n nodes"],
-      "preferred_skills": ["observability of automation systems"],
+      "required_skills": [
+        "n8n (or Make/Zapier/Airflow)",
+        "REST/GraphQL APIs",
+        "Python or similar for custom logic",
+        "LLM function calling and prompting",
+        "custom n8n nodes"
+      ],
+      "preferred_skills": [
+        "observability of automation systems"
+      ],
       "company_facts": "Saudi Arabia's #1 event ticketing/experience platform; $2B+ in sales; offices in Riyadh, Dubai, London.",
       "score": 85,
       "tier": "B",
@@ -313,8 +398,16 @@
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
       "status": "QUALIFIED",
-      "required_skills": ["GoHighLevel", "Zapier", "n8n", "AI workflow automation", "CRM/email/project-management automation"],
-      "preferred_skills": ["technical documentation and SOPs"],
+      "required_skills": [
+        "GoHighLevel",
+        "Zapier",
+        "n8n",
+        "AI workflow automation",
+        "CRM/email/project-management automation"
+      ],
+      "preferred_skills": [
+        "technical documentation and SOPs"
+      ],
       "company_facts": "Contractor retainer $1,000-1,500/mo + performance incentives; explicitly hires from Africa incl. Nigeria; regulated/clinical dataset workflows a nice-to-have.",
       "score": 76,
       "tier": "C",
