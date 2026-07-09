@@ -74,6 +74,45 @@
       "notes": "Clutch 4.7 (13-16 reviews). Mostly positive (lead-gen agency: 10x delivery speed) but one strong negative (Aug-Oct 2024): 'zero QA or testing', non-functional outputs, slow comms, refused refund on prepaid credits -> reveals prepaid-credit pricing model with minimum purchase, and a QA pain point the 2026 job ad answers ('always making sure to test the systems'). Case studies: Registix (logistics, Airtable + Slack + QuickBooks automations), Evergreen Clinic (CA rehab/wellness, patient inquiries + billing). Upwork: 2,588 hrs, 5-star avg. Culture: synchronous (daily standups, weekly team calls, live Slack), deadline-driven agency pace, worldwide remote, AI-forward, founder-led. No careers page found; hires via WWR/job boards; no public salary. Access note: axeautomation.co, edaxe.co, Clutch, Make directory, WWR, weekday.works all proxy-blocked (403) — research via search snippets only. Unverified: Nick Verity LinkedIn post claiming 'AXE Automation scaled to $40K MRR'. Full brief: applications/2026/axe-automation-ai-automation-developer/research.md",
       "updated_at": "2026-07-09T00:00:00Z",
       "updated_by": "company-intelligence-agent"
+    },
+    "Bamboo Works": {
+      "industry": "Remote staffing / outsourcing agency (bambooworks.io) recruiting AI & automation contractors for end clients; target role's end client is an unnamed Austria-based AI education & automation consultancy serving coaches, consultants, solopreneurs, SMBs",
+      "size": "Agency: founded 2022, HQ Dubai + London office, fully remote core team across SE Asia/Europe/Middle East; talent focus Philippines & South America. End client: founder-led, small, scaling (hiring senior manager + specialists)",
+      "funding": "Agency appears privately held/bootstrapped (no funding data found). End client unknown.",
+      "tech_stack": [
+        "n8n",
+        "Make.com",
+        "Zapier",
+        "Power Automate",
+        "OpenAI API",
+        "Anthropic API / Claude (multiple Claude Code-specific roles open)",
+        "LangChain",
+        "Vector DBs: Pinecone, Weaviate, Qdrant (RAG)",
+        "Python (required), JS/TS (advantage)",
+        "ClickUp (senior role JD)",
+        "JazzHR ATS (bambooworks.applytojob.com)"
+      ],
+      "people": [
+        {
+          "name": "Pim Luijten",
+          "role": "Co-Founder, Bamboo Works (agency)",
+          "linkedin": "https://id.linkedin.com/in/pimluijten"
+        },
+        {
+          "name": "Gilles Puts",
+          "role": "Co-Founder, Bamboo Works (agency); finance/global markets background",
+          "linkedin": "not found"
+        },
+        {
+          "name": "UNKNOWN",
+          "role": "Founder of Austrian end-client consultancy (senior hire 'acts as strategic consultant to the founder'); not publicly identifiable",
+          "linkedin": "not found"
+        }
+      ],
+      "past_applications": ["2026/bamboo-works-ai-automation-specialist"],
+      "notes": "KEY: Bamboo Works is the recruiting agency, NOT the Austrian company — end client is anonymous in all listings. Target role: AI & Automation Specialist, full-time 40h/wk independent contractor, $1,600-1,920/mo, 08:00-12:00 CET overlap required (trivial from WAT/UTC+1). JD: build/maintain automations (n8n/Make/Zapier/Power Automate) for client systems AND internal ops, RPA, API integrations per interface docs, QA/debugging/optimization, LLM apps (GPT/Claude/OSS), RAG + vector DBs per architecture guidelines, deploy agents/chatbots; 3+ yrs, strong Python. Parallel openings signal team growth + client demand: Senior AI Operations & Automation Manager (same Austrian client, do NOT apply), AI Agent & Automation Specialist, AI Automation Engineer (Claude Code & AI Agents), Claude Code Developer, Claude Developer, AI Automation Specialist (Claude & Accounting Workflows), AI Systems & Automation Consultant, part-time variants $800-1,200/mo. No independent contractor-side reviews found (Glassdoor 'Bamboo' hits are unrelated companies) — vet contract/payment terms. Access note: ALL direct fetches proxy-blocked (403: bambooworks.io, applytojob, LinkedIn, Remotive, Working Nomads, Himalayas, Remote Rocketship) — research via search snippets only. Full brief: applications/2026/bamboo-works-ai-automation-specialist/research.md",
+      "updated_at": "2026-07-09T00:00:00Z",
+      "updated_by": "company-intelligence-agent"
     }
   }
 }
