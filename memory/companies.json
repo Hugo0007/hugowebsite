@@ -1,0 +1,14 @@
+{
+  "_schema": {
+    "company": "string (key)",
+    "industry": "string",
+    "size": "string",
+    "funding": "string",
+    "tech_stack": ["string"],
+    "people": [{ "name": "string", "role": "string", "linkedin": "string" }],
+    "past_applications": ["application id"],
+    "notes": "string",
+    "updated_at": "ISO timestamp"
+  },
+  "companies": {}
+}

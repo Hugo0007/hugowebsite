@@ -1,0 +1,16 @@
+{
+  "_schema": {
+    "application_id": "string",
+    "date": "ISO timestamp",
+    "round": "string",
+    "interviewers": ["string"],
+    "format": "video|phone|async|onsite",
+    "questions_asked": ["string"],
+    "strong_answers": ["string"],
+    "weak_answers": ["string"],
+    "feedback": "string|null",
+    "outcome": "advanced|rejected|pending|offer",
+    "lessons": ["string"]
+  },
+  "interviews": []
+}

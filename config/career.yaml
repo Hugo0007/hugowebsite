@@ -1,0 +1,51 @@
+# Career targets and hard constraints. The Qualification Strategist treats
+# everything here as authoritative.
+
+target_titles:                # ranked, highest priority first
+  - AI Operations Specialist
+  - Workflow Automation Consultant
+  - Solution Architect (No-Code)
+  - Automation Engineer
+  - SaaS Implementation Specialist
+  - Integration Engineer
+  - Technical Operations Manager
+  - Business Process Analyst
+  - Revenue Operations Specialist
+  - System Engineer
+
+geography:
+  accept:
+    - Worldwide Remote
+    - Remote Anywhere
+    - Remote Global
+    - Remote International
+  reject:
+    - On-site
+    - Hybrid
+    - Location-restricted (unless clearly eligible per memory/profile.json)
+
+salary:
+  currency: USD
+  minimum_annual: null        # set a number to enable the hard salary floor
+  target_annual: null
+
+employment_types:
+  - Full-time
+  - Contract
+
+company_preferences:
+  prioritize:
+    - Invests heavily in AI
+    - SaaS products
+    - Remote-first / async-friendly
+    - International hiring
+    - Modern engineering practices
+    - Financially stable
+  avoid:
+    - Repeated reports of poor hiring practices
+    - Ghost-job posters
+
+capacity:
+  max_applications_per_week: 10     # quality ceiling — CoS enforces this
+  max_level4_per_week: 1            # elite (demo) applications are expensive
+  deep_work_hours_per_day: 4

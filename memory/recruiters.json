@@ -1,0 +1,16 @@
+{
+  "_schema": {
+    "name": "string (key: name@company)",
+    "company": "string",
+    "role": "recruiter|hiring-manager|engineering-manager|founder",
+    "linkedin": "string|null",
+    "email": "string|null",
+    "relationship_score": "0-100",
+    "touchpoints": [
+      { "date": "yyyy-mm-dd", "channel": "linkedin|email", "direction": "sent|received", "summary": "string" }
+    ],
+    "next_followup": "yyyy-mm-dd|null",
+    "communication_style_notes": "string|null"
+  },
+  "recruiters": {}
+}

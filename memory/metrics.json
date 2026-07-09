@@ -1,0 +1,19 @@
+{
+  "totals": {
+    "discovered": 0,
+    "applied": 0,
+    "responses": 0,
+    "interviews": 0,
+    "offers": 0,
+    "rejections": 0
+  },
+  "rates": {
+    "response_rate": null,
+    "interview_rate": null,
+    "offer_rate": null
+  },
+  "by_tier": {},
+  "by_investment_level": {},
+  "by_source": {},
+  "updated_at": null
+}

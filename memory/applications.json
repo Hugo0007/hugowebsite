@@ -1,0 +1,28 @@
+{
+  "_schema": {
+    "id": "<company-slug>-<role-slug>-<yyyymmdd>",
+    "company": "string",
+    "role": "string",
+    "url": "string",
+    "source": "string",
+    "salary": "string|null",
+    "remote_scope": "worldwide|region-restricted",
+    "posted_date": "yyyy-mm-dd|null",
+    "discovered_at": "ISO timestamp",
+    "status": "DISCOVERED|QUALIFIED|REJECTED|RESEARCHING|READY_FOR_RESUME|READY_FOR_DEMO|WAITING_FOR_APPROVAL|READY_TO_SUBMIT|SUBMITTED|FOLLOW_UP|INTERVIEW|OFFER|CLOSED_REJECTED|ARCHIVED",
+    "score": "0-100|null",
+    "tier": "S|A|B|C|null",
+    "investment_level": "1|2|3|4|null",
+    "priority": "A|B|C|D|null",
+    "recommendation": "string|null",
+    "reasoning": "string|null",
+    "resume_version": "string|null",
+    "cover_letter_version": "string|null",
+    "demo": "string|null",
+    "submitted_at": "ISO timestamp|null",
+    "submission_method": "careers|referral|recruiter|hiring-manager|linkedin|job-board|null",
+    "outcome": "string|null",
+    "notes": "string|null"
+  },
+  "applications": []
+}

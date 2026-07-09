@@ -1,0 +1,53 @@
+# Job sources in priority order. The Opportunity Scout works down this list.
+# The Learning Analyst tracks which sources actually produce interviews and
+# proposes reprioritization.
+
+sources:
+  - name: Company career pages
+    priority: 1
+    notes: "Best signal, least competition. Build target_companies below."
+  - name: LinkedIn Jobs
+    priority: 2
+    url: https://www.linkedin.com/jobs/
+  - name: Wellfound
+    priority: 3
+    url: https://wellfound.com/jobs
+  - name: RemoteOK
+    priority: 4
+    url: https://remoteok.com/
+  - name: We Work Remotely
+    priority: 5
+    url: https://weworkremotely.com/
+  - name: Greenhouse boards
+    priority: 6
+    notes: "site:boards.greenhouse.io searches"
+  - name: Lever boards
+    priority: 7
+    notes: "site:jobs.lever.co searches"
+  - name: YC Startup Jobs
+    priority: 8
+    url: https://www.ycombinator.com/jobs
+  - name: FlexJobs
+    priority: 9
+  - name: Indeed
+    priority: 10
+  - name: Glassdoor
+    priority: 11
+
+# Dream companies to check directly on every scan (add your own):
+target_companies: []
+  # - name: ExampleCo
+  #   careers_url: https://example.com/careers
+
+search_keywords:
+  - "AI operations"
+  - "workflow automation"
+  - "automation engineer"
+  - "n8n"
+  - "Make.com"
+  - "Zapier expert"
+  - "Airtable"
+  - "AI agent"
+  - "no-code solution architect"
+  - "integration engineer"
+  - "Claude"

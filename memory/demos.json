@@ -1,0 +1,16 @@
+{
+  "_schema": {
+    "name": "string",
+    "slug": "folder name under demos/",
+    "technologies": ["string"],
+    "business_problem": "string",
+    "built_for": "application id|general portfolio",
+    "repo_url": "string|null",
+    "live_url": "string|null",
+    "reusable_components": ["string"],
+    "quality_score": "0-100",
+    "times_reused": 0,
+    "built_at": "yyyy-mm-dd"
+  },
+  "demos": []
+}

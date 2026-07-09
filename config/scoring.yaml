@@ -1,0 +1,54 @@
+# Scoring model used by the Qualification Strategist (Strategic Decision Engine).
+# The Learning Analyst may PROPOSE changes here based on outcomes; only the
+# user approves edits.
+
+base_score: 0
+
+bonuses:
+  worldwide_remote: 20
+  ai_automation_focus: 15
+  airtable: 15
+  n8n: 10
+  make_com: 10
+  zapier: 8
+  api_integrations: 10
+  claude_or_anthropic: 10
+  llm_or_agentic_ai: 10
+  growth_opportunity: 10
+  interesting_product: 5
+  title_exact_match: 10        # role title in target_titles top 5
+  fresh_posting_3d: 5          # posted within 3 days
+
+penalties:
+  hybrid: -100
+  onsite: -100
+  relocation_required: -100
+  below_min_experience_match: -40
+  location_restricted_ineligible: -100
+  salary_below_floor: -100
+  stale_over_14d: -10
+  vague_or_scam_signals: -50
+
+score_cap: 100                 # clamp final score to 0–100
+
+tiers:
+  S: { min: 95, action: "Exceptional — stop everything, recommend immediately" }
+  A: { min: 90, action: "Excellent — apply this week" }
+  B: { min: 80, action: "Strong — worth applying" }
+  C: { min: 70, action: "Optional — only if pipeline is light" }
+  reject_below: 70
+
+fit_dimensions:                # weights for the 0–100 fit analysis
+  technical_match: 25
+  experience_match: 15
+  tool_match: 20
+  industry_match: 5
+  problem_match: 10
+  portfolio_match: 10
+  career_growth: 10
+  future_value: 5
+
+quality_gates:
+  resume_self_score_min: 95
+  ats_score_min: 90
+  demo_quality_min: 95

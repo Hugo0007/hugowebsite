@@ -1,0 +1,10 @@
+{
+  "_schema": {
+    "date": "yyyy-mm-dd",
+    "context": "which application/interaction taught this",
+    "observation": "what happened (facts only)",
+    "hypothesis": "why it might have happened",
+    "action": "what to do differently next time"
+  },
+  "lessons": []
+}
