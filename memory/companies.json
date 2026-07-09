@@ -10,5 +10,40 @@
     "notes": "string",
     "updated_at": "ISO timestamp"
   },
-  "companies": {}
+  "companies": {
+    "Vidalytics": {
+      "industry": "MarTech / video hosting & analytics SaaS for direct-response marketers (VSL-focused)",
+      "size": "~16-22 employees (LinkedIn/Indeed bracket 11-50); HQ Austin TX, remote/distributed team incl. Europe hires",
+      "funding": "Bootstrapped, no VC (GetLatka/Starter Story); GetLatka lists $697K ARR / 16 employees but data appears dated (<=2024); company claims 100%+ YoY growth and profitable",
+      "tech_stack": [
+        "n8n (named in AI Automation Engineer JD)",
+        "Zapier (named in JD)",
+        "MCP (named in JD)",
+        "RAG (named in JD)",
+        "Public REST API (launched Nov 2025)",
+        "JS embed video player",
+        "Web-app backend stack UNVERIFIED (no eng blog/StackShare/GitHub org found)"
+      ],
+      "people": [
+        {
+          "name": "Patrick Stiles",
+          "role": "Founder & CEO; hiring manager for AI Automation Engineer (role reports to CEO)",
+          "linkedin": "https://www.linkedin.com/in/patrickstiles/",
+          "x": "https://x.com/pj_stiles",
+          "email_hint": "p@vidalytics.com (from a 2022-era public LinkedIn hiring post; plausible, verify before use)",
+          "podcasts": [
+            "Inspired Insider Top SaaS Series",
+            "EO 360 (Addict to Entrepreneur)",
+            "ClickBank Affiliated ep. 173 (VSL metrics)",
+            "One Stop Dev Shop (0 to $72K MRR in 3 years)",
+            "List Building Lifestyle Show"
+          ]
+        }
+      ],
+      "past_applications": ["2026/vidalytics-ai-automation-engineer"],
+      "notes": "Product: conversion-focused video hosting/player/analytics for VSLs; claims $3.5B+ tracked video revenue. Customers: Primal Labs, V Shred, iClosed, Frank Kern; typical $100-$1,000/mo. Competitors: Wistia, Vimeo, VTurb, Voomly, Vidyard (runs aggressive /compare pages). Recent AI launches: Vids AI + Funnel View (Oct 2025), AI captions translation + public API + player themes (Nov 2025), AI Script Analyzer, AI-Optimized Embed. Other openings mid-2026: GTM MarTech Engineer (Europe, growth/attribution), Engineering role (Built In, ~Jun 29 2026), Account Manager, VP of Sales. Hiring process: 5-min video answers, personality assessment, job simulation. Culture: direct-response/metrics-driven, bootstrapper leverage-over-headcount mindset, AI-forward (JD mandate: 'make Vidalytics AI native from top to bottom', revenue teams first). Access note: vidalytics.com, WWR, Built In blocked by proxy (403) — research via search snippets. Full brief: applications/2026/vidalytics-ai-automation-engineer/research.md",
+      "updated_at": "2026-07-09T00:00:00Z",
+      "updated_by": "company-intelligence-agent"
+    }
+  }
 }
