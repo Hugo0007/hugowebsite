@@ -74,7 +74,7 @@
       "employment_type": "Full-time",
       "posted_date": null,
       "discovered_at": "2026-07-09T12:00:00Z",
-      "status": "WAITING_FOR_APPROVAL",
+      "status": "READY_TO_SUBMIT",
       "required_skills": [
         "n8n",
         "Zapier",
@@ -94,8 +94,8 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Highest-ceiling role in pipeline: in-house, reports to CEO with an AI-native mandate, and the stack (n8n, Zapier, agents/chains/prompts) matches; RAG/retrieval grounding is the one gap to pre-empt in the cover letter. Eastern-US overlap from WAT means afternoon/evening hours — feasible. Worth Level 3 with light networking; repurpose the existing AI lead-qualification project as proof rather than building a new demo.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Eastern US overlap from WAT (UTC+1) means afternoon/evening shift — feasible. High-visibility in-house role. Discovered by Opportunity Scout.",
-      "status_changed_at": "2026-07-09T18:18:09+00:00",
+      "notes": "Eastern US overlap from WAT (UTC+1) means afternoon/evening shift — feasible. High-visibility in-house role. Discovered by Opportunity Scout. Full packet incl. outreach sequence approved by user 2026-07-09.",
+      "status_changed_at": "2026-07-09T18:44:32+00:00",
       "resume_version": "resume-v1",
       "cover_letter_version": "cover-letter-v1"
     },
@@ -437,8 +437,8 @@
       "employment_type": "Contractor (assumed, per agency pattern)",
       "posted_date": null,
       "discovered_at": "2026-07-09T18:23:13+00:00",
-      "status": "RESEARCHING",
-      "status_changed_at": "2026-07-09T18:23:13+00:00",
+      "status": "READY_TO_SUBMIT",
+      "status_changed_at": "2026-07-09T18:44:32+00:00",
       "required_skills": [
         "Claude Code",
         "n8n",
@@ -470,7 +470,9 @@
       "recommendation": "Apply Immediately (replaces Specialist application — one application max to this agency)",
       "reasoning": "Better fit than the Specialist sibling: Claude Code and Relevance AI are explicitly demanded and the candidate genuinely has both — rare differentiators. Consultant framing (business acumen + SOPs + founder partnership) matches the candidate's trajectory precisely. Python/OpenAI/RAG/Docker appear as list items, not 'strong proficiency' requirements. Salary unposted; agency payment terms still unvetted.",
       "evaluated_at": "2026-07-09T18:23:13+00:00",
-      "notes": "Evaluated inline by CACO from search snippets (JazzHR/Himalayas proxy-blocked). Verify live posting and exact JD text in browser before submission."
+      "notes": "Evaluated inline by CACO from search snippets (JazzHR/Himalayas proxy-blocked). Verify live posting and exact JD text in browser before submission. Packet approved by user 2026-07-09.",
+      "resume_version": "resume-v1",
+      "cover_letter_version": "cover-letter-v1"
     }
   ]
 }

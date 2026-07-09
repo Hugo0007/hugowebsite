@@ -18,3 +18,5 @@ Every significant decision (apply/skip, investment level, demo yes/no) gets one 
 - [2026-07-09] Bamboo Works/AI Systems & Automation Consultant: score 92, tier A, level 2, Apply Immediately — Claude Code + Relevance AI explicitly demanded (candidate has both); replaces Specialist application (strong-Python requirement). One application max to this agency.
 - [2026-07-09] Axe Automation packet approved by user — READY TO SUBMIT pending manual liveness check.
 - [2026-07-09] Vidalytics packet on hold — user reviewing files. Demo packaging approved (build, show before publishing).
+- [2026-07-09] Vidalytics packet (resume+letter+outreach) approved by user — READY TO SUBMIT.
+- [2026-07-09] Bamboo Consultant packet approved by user — READY TO SUBMIT.
