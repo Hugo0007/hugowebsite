@@ -44,6 +44,36 @@
       "notes": "Product: conversion-focused video hosting/player/analytics for VSLs; claims $3.5B+ tracked video revenue. Customers: Primal Labs, V Shred, iClosed, Frank Kern; typical $100-$1,000/mo. Competitors: Wistia, Vimeo, VTurb, Voomly, Vidyard (runs aggressive /compare pages). Recent AI launches: Vids AI + Funnel View (Oct 2025), AI captions translation + public API + player themes (Nov 2025), AI Script Analyzer, AI-Optimized Embed. Other openings mid-2026: GTM MarTech Engineer (Europe, growth/attribution), Engineering role (Built In, ~Jun 29 2026), Account Manager, VP of Sales. Hiring process: 5-min video answers, personality assessment, job simulation. Culture: direct-response/metrics-driven, bootstrapper leverage-over-headcount mindset, AI-forward (JD mandate: 'make Vidalytics AI native from top to bottom', revenue teams first). Access note: vidalytics.com, WWR, Built In blocked by proxy (403) — research via search snippets. Full brief: applications/2026/vidalytics-ai-automation-engineer/research.md",
       "updated_at": "2026-07-09T00:00:00Z",
       "updated_by": "company-intelligence-agent"
+    },
+    "Axe Automation": {
+      "industry": "AI automation agency (client services): AI agents, workflow automation, CRM/PM system builds for SMBs",
+      "size": "2-10 employees per LinkedIn (4 profiles visible); likely core team + contractors (inference); founded ~2023 ('grown every quarter for 3 years' per Jul 2026 job ad); Clutch lists Marina del Rey, CA; remote/worldwide hiring",
+      "funding": "No outside funding found — appears founder-bootstrapped (inference). NOT the Dublin logistics-AI startup 'Axe' that raised EUR 1.5M — different company",
+      "tech_stack": [
+        "Make.com (core — Make Partner of the Year 2025, North America)",
+        "n8n (job ad + 'world-class n8n developer' on team)",
+        "Zapier",
+        "AI agents",
+        "Custom API calls + JavaScript/Python scripting (job ad)",
+        "Airtable (Registix case study: spreadsheets-to-Airtable migration)",
+        "Monday.com (official partner; also internal PM tool), ClickUp, Asana",
+        "Slack, QuickBooks integrations (case studies)"
+      ],
+      "people": [
+        {
+          "name": "Ed Axe",
+          "role": "Founder & CEO; almost certainly hiring decision-maker given team size (inference)",
+          "linkedin": "https://www.linkedin.com/in/ed-axe/",
+          "site": "https://edaxe.co",
+          "youtube": "@itsedaxe",
+          "x": "@itsedaxe",
+          "background": "ex-P&G and Google; exited first company for ~$7M in 2021; active content marketer (blog, podcast guest e.g. Chris Daigle interview Apr 2024)"
+        }
+      ],
+      "past_applications": ["2026/axe-automation-ai-automation-developer"],
+      "notes": "Clutch 4.7 (13-16 reviews). Mostly positive (lead-gen agency: 10x delivery speed) but one strong negative (Aug-Oct 2024): 'zero QA or testing', non-functional outputs, slow comms, refused refund on prepaid credits -> reveals prepaid-credit pricing model with minimum purchase, and a QA pain point the 2026 job ad answers ('always making sure to test the systems'). Case studies: Registix (logistics, Airtable + Slack + QuickBooks automations), Evergreen Clinic (CA rehab/wellness, patient inquiries + billing). Upwork: 2,588 hrs, 5-star avg. Culture: synchronous (daily standups, weekly team calls, live Slack), deadline-driven agency pace, worldwide remote, AI-forward, founder-led. No careers page found; hires via WWR/job boards; no public salary. Access note: axeautomation.co, edaxe.co, Clutch, Make directory, WWR, weekday.works all proxy-blocked (403) — research via search snippets only. Unverified: Nick Verity LinkedIn post claiming 'AXE Automation scaled to $40K MRR'. Full brief: applications/2026/axe-automation-ai-automation-developer/research.md",
+      "updated_at": "2026-07-09T00:00:00Z",
+      "updated_by": "company-intelligence-agent"
     }
   }
 }
