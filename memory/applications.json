@@ -60,7 +60,10 @@
       "notes": "WWR direct fetch blocked by proxy; details verified via jobs.weekday.works mirror and search snippets. Near-perfect stack match. Discovered by Opportunity Scout. Packet approved by user 2026-07-09; awaiting manual submission (verify posting live first).",
       "status_changed_at": "2026-07-09T18:21:26+00:00",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://weworkremotely.com/remote-jobs/axe-automation-ai-automation-developer",
+      "verification_notes": "WWR is free to browse; its Apply button links out to the employer. If it redirects to a signup-gated aggregator, search \"Axe Automation careers\" for the direct form. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "vidalytics-ai-automation-engineer-20260709",
@@ -97,7 +100,10 @@
       "notes": "Eastern US overlap from WAT (UTC+1) means afternoon/evening shift — feasible. High-visibility in-house role. Discovered by Opportunity Scout. Full packet incl. outreach sequence approved by user 2026-07-09.",
       "status_changed_at": "2026-07-09T18:44:32+00:00",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "verification_notes": "WWR free; Vidalytics hiring flow (video/assessment) is employer-run and free. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "bamboo-works-senior-ai-operations-automation-manager-20260709",
@@ -169,7 +175,10 @@
       "notes": "Salary posted. Exact stack match incl. Anthropic API. CET overlap trivial from WAT. Same company as senior role — apply to one, reference in strategy. Discovered by Opportunity Scout. Held as fallback 2026-07-09: user chose to pursue the Consultant sibling role instead (better fit, no strong-Python requirement). Packet complete if needed.",
       "status_changed_at": "2026-07-09T18:23:13+00:00",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://bambooworks.applytojob.com/apply/pmEDRmupi9/AI-Automation-Specialist",
+      "verification_notes": "JazzHR — free direct apply. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "mindrift-n8n-workflow-developer-20260709",
@@ -206,7 +215,10 @@
       "evaluated_at": "2026-07-09T14:00:00Z",
       "notes": "Nigeria-friendly payout rails. Good immediate-income freelance track alongside full-time search. Discovered by Opportunity Scout. Level 1 resume prepared. Self-hosted n8n NOT claimed (no evidence). Packet approved by user 2026-07-09.",
       "status_changed_at": "2026-07-09T18:59:40+00:00",
-      "resume_version": "resume-v1"
+      "resume_version": "resume-v1",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://himalayas.app/companies/mindrift/jobs/n8n-workflow-developer-freelance-ai-trainer",
+      "verification_notes": "Himalayas links to Mindrift/Workable; Mindrift platform signup is free (they pay YOU — never pay them). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "huzzle-automation-engineer-n8n-20260709",
@@ -238,7 +250,10 @@
       "evaluated_at": "2026-07-09T14:00:00Z",
       "notes": "Agency-style placement — one application can yield multiple client matches. Discovered by Opportunity Scout. Level 1 resume prepared. Packet approved by user 2026-07-09.",
       "status_changed_at": "2026-07-09T18:59:40+00:00",
-      "resume_version": "resume-v1"
+      "resume_version": "resume-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://apply.workable.com/huzzle/j/3FE016C6A1/",
+      "verification_notes": "Workable — free direct apply, no account. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "the-global-talent-co-ai-automation-specialist-20260709",
@@ -273,7 +288,10 @@
       "notes": "Posted 2026-04-28 (~10 weeks old) but relisted on Jobgether recently — verify still open. Requirements match profile exactly (2-4 yrs, Anthropic function calling). Discovered by Opportunity Scout. Still listed on Ashby. Role owns internal AI automation roadmap across sales/ops/support/people. Packet approved by user 2026-07-09.",
       "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://jobs.ashbyhq.com/the-global-talent-co/46d3baa7-b1ae-4945-8bc8-e14bb06631fc",
+      "verification_notes": "Ashby — free direct apply, no account. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "rework-digital-ai-automation-specialist-20260709",
@@ -309,7 +327,10 @@
       "notes": "Fresh (engagement starts July 2026). Salary posted. Verify Canada eligibility question at qualification stage. Discovered by Opportunity Scout. Part-time 14-month term (Jul 2026-Aug 2027), $50-80k/yr, apps open to Dec 2026. No geo restriction found. Application asks for automation examples w/ ROI + optional Loom. Packet approved by user 2026-07-09.",
       "status_changed_at": "2026-07-09T18:59:40+00:00",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://wellfound.com/jobs/4012986-ai-automation-specialist",
+      "verification_notes": "Wellfound requires a FREE account to apply — no payment. Alternative: check reworkdigital site for a direct careers form. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "n8n-community-poster-n8n-ai-automation-developer-20260709",
@@ -337,7 +358,10 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Perfect narrow skills match in a genuinely low-competition channel, but the poster is undisclosed, requirements are thin, and $1,500/mo is low — treat as an income bridge, not a career move. 10-20 minutes to apply is justified; vet the poster in-thread before sharing personal details or free work.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "community.n8n.io fetch blocked by proxy — rate and Wise payment confirmed via search snippets; open thread in browser to get poster details. Low-competition channel. Discovered by Opportunity Scout."
+      "notes": "community.n8n.io fetch blocked by proxy — rate and Wise payment confirmed via search snippets; open thread in browser to get poster details. Low-competition channel. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://community.n8n.io/t/hiring-n8n-ai-automation-developer-remote/298577",
+      "verification_notes": "n8n community forum — free account to reply/DM. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "snowball-money-ai-social-automation-specialist-20260709",
@@ -399,7 +423,10 @@
       "recommendation": "Wait",
       "reasoning": "Excellent technical fit (n8n custom nodes, REST/GraphQL, LLM function calling; JS satisfies 'Python or similar') at a $2B+ platform, but remote scope remains unverified — 2026-07-09 search still shows only 'remote-based or flexible' with Riyadh/Dubai/London offices, which could mean region-restricted. Priority capped at C until worldwide eligibility is confirmed in-browser or via recruiter. Invest nothing until then.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Excellent technical fit but remote scope unverified — qualification blocker until confirmed. Discovered by Opportunity Scout."
+      "notes": "Excellent technical fit but remote scope unverified — qualification blocker until confirmed. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://apply.workable.com/webook/j/6967C53275/",
+      "verification_notes": "Workable — free direct apply (remote scope still unverified). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "human-intelligence-automation-workflow-specialist-20260709",
@@ -432,7 +459,10 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Eligibility now verified — the posting explicitly targets Nigeria, and $1,000-1,500/mo + incentives via Wise is workable though low. The centerpiece skill GoHighLevel is the candidate's one real gap; Zapier/n8n/CRM automation depth transfers but expect GHL screening pressure. Cheap Level 1 apply framing CRM-pipeline automation as GHL-adjacent.",
       "evaluated_at": "2026-07-09T14:00:00Z",
-      "notes": "Contractor framing usually means worldwide; GHL is the only stack gap (learnable). Discovered by Opportunity Scout."
+      "notes": "Contractor framing usually means worldwide; GHL is the only stack gap (learnable). Discovered by Opportunity Scout.",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://apply.workable.com/humanintelligence/j/D264BCF75C/",
+      "verification_notes": "Workable — free direct apply. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "bamboo-works-ai-systems-automation-consultant-20260709",
@@ -482,7 +512,10 @@
       "evaluated_at": "2026-07-09T18:23:13+00:00",
       "notes": "Evaluated inline by CACO from search snippets (JazzHR/Himalayas proxy-blocked). Verify live posting and exact JD text in browser before submission. Packet approved by user 2026-07-09.",
       "resume_version": "resume-v1",
-      "cover_letter_version": "cover-letter-v1"
+      "cover_letter_version": "cover-letter-v1",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://bambooworks.applytojob.com",
+      "verification_notes": "JazzHR employer portal — free direct apply, no account. Locate the Consultant posting on the careers index. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "moonland-senior-airtable-consultant-20260709b",
@@ -516,7 +549,10 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Airtable is the candidate's deepest skill and the JD (base design, interfaces, automations, integrations, production apps across regions) maps directly onto 3 years of daily Airtable evidence plus the public Claude+n8n+Airtable portfolio repo (github.com/Hugo0007/ai-lead-qualification-agent). The GMT+1 requirement is a structural moat: it excludes most of the global pool while Nigeria matches exactly, and daily standups with Brussels/London are trivial from WAT. Risks: 'Senior' bar vs 4 yrs at one employer (mitigate by leading with production Airtable systems, not tenure), salary undisclosed, exact thread URL unlocated. Level 3 justified: small Belgian consultancy where founder-level LinkedIn outreach has outsized effect. Estimated interview probability 30-35%, offer ~10%, confidence medium (details from search snippets).",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Rare timezone advantage: GMT+1 requirement filters out most global competition while Nigeria matches exactly. Strong fit: Airtable is a core candidate skill plus workflow automation/integration depth. Verified via multiple search snippets; direct thread URL must be located in browser on the jobs board. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Rare timezone advantage: GMT+1 requirement filters out most global competition while Nigeria matches exactly. Strong fit: Airtable is a core candidate skill plus workflow automation/integration depth. Verified via multiple search snippets; direct thread URL must be located in browser on the jobs board. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://community.airtable.com/jobs-board-16",
+      "verification_notes": "Airtable community board — free Airtable account to view/reply. Locate exact thread; apply per thread instructions (usually email — free). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "optimize-is-airtable-consultant-20260709b",
@@ -550,7 +586,10 @@
       "recommendation": "Apply Immediately",
       "reasoning": "Purest fit in the current batch: the entire JD (design/build/maintain Airtable bases, interfaces, and automations for clients; scalable database design; independent remote work; client communication) is the candidate's core evidence, the CS degree matches the 'preferred' line, and the public portfolio repo is direct proof. Two-time Airtable Partner of the Year = maximum long-term career value for an Airtable specialization; worldwide remote-first contract with no stated experience bar. Main caveat is competition: a marquee Airtable agency draws steady inbound from established consultants, and the careers-page listing may be evergreen intake — interview odds moderate (~20-25%, offer ~8%) despite excellent fit. Careers page proxy-blocked (403) — verify posting live in browser before submitting.",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Top-tier Airtable agency (two-time Partner of the Year) hiring contract consultants — direct fit for candidate's Airtable + automation + API skills. Careers page 403 via proxy; verify posting live in browser before qualification. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Top-tier Airtable agency (two-time Partner of the Year) hiring contract consultants — direct fit for candidate's Airtable + automation + API skills. Careers page 403 via proxy; verify posting live in browser before qualification. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://www.optimizeis.com/careers",
+      "verification_notes": "Company careers page — free. IGNORE the jobright.ai mirror (signup wall). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "clay-community-poster-fractional-gtm-ops-engineer-20260709b",
@@ -582,7 +621,10 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "The centerpiece skill — advanced Clay (complex tables, person-level deanonymization, credit governance) — is a genuine gap that must NEVER be claimed, and the post sits on Clay's own community where nearly every applicant is a practicing Clay operator; 'USA & Europe preferred' further discounts odds. Real compensations: Salesforce/HubSpot wiring, systems operations, and data-governance depth match exactly, and $80-90/hr x 10-20h/wk is the best economics in the pipeline — so a 15-minute honest reply (n8n/Make + CRM integration depth, fast Clay ramp plan, portfolio repo as systems-thinking proof) is positive-EV at Level 1. Expectations stay low: interview probability ~5-8%, offer ~2-3%. Vet the undisclosed poster in-thread before sharing details; verify thread in browser (proxy-blocked).",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Best hourly rate found to date ($80-90/hr). CRM integration requirements (Salesforce/HubSpot) match candidate exactly; Clay itself is the main skill gap — transferable from n8n/Make enrichment work but expect screening pressure. Open thread in browser to identify poster and freshness. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Best hourly rate found to date ($80-90/hr). CRM integration requirements (Salesforce/HubSpot) match candidate exactly; Clay itself is the main skill gap — transferable from n8n/Make enrichment work but expect screening pressure. Open thread in browser to identify poster and freshness. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://community.clay.com/x/part-time-jobs/b0d6qfabon6z/hiring-fractional-gtm-and-operations-engineer-for",
+      "verification_notes": "Clay community — free community account to view/reply. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "pavago-ai-automation-specialist-20260709b",
@@ -619,7 +661,10 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Requirements read like the profile verbatim (Zapier/Make/n8n, Anthropic API, webhooks, JS and Airtable as explicit pluses), and Pavago's staffing model places global talent with US firms — US business hours from WAT is a feasible afternoon/evening shift. Two discounts drive priority C: posted ~2026-04-01 (~14 weeks, stale -10; may be filled or an evergreen staffing intake) and the geo preference names LATAM/Pakistan/South Africa/Eastern Europe — Nigeria unnamed (preference, not a bar). Level 1 only, and only after a browser liveness check on the Workable posting; do not spend cover-letter effort on a possibly dead intake. Interview probability ~10-15% if live, offer ~4%, confidence low-medium.",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Requirements read like the candidate's profile (Zapier/Make/n8n + Anthropic API + webhooks; JS and Airtable as nice-to-haves). Staleness risk: mirrors date it around April 2026 (~3 months) — verify still open before investing. US-hours from WAT = afternoon/evening shift, feasible. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Requirements read like the candidate's profile (Zapier/Make/n8n + Anthropic API + webhooks; JS and Airtable as nice-to-haves). Staleness risk: mirrors date it around April 2026 (~3 months) — verify still open before investing. US-hours from WAT = afternoon/evening shift, feasible. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://apply.workable.com/pavago/j/C3711B0593",
+      "verification_notes": "Workable — free direct apply. Verify liveness first (posted ~April). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "tempo-gtm-engineer-20260709b",
@@ -652,7 +697,10 @@
       "recommendation": "Wait",
       "reasoning": "Strong overlap on workflow design, no-code tooling, API integrations, prompt engineering, and CRM — but the posting sets an explicit 5+ years bar against the candidate's 4+ at a single employer, demands RAG/vector databases (Supabase/Pinecone) and waterfall-enrichment GTM data work the master resume cannot evidence, and 'GTM Engineer' on worldwide Remotive is a high-volume magnet for senior RevOps/data engineers. Honest answer to the core question: the candidate cannot realistically be a top-quartile applicant here today. Wait: verify which 'Tempo' this is and the posting age in browser; revisit only if the pipeline lightens or the experience bar proves soft. Interview probability ~5-8%, offer ~2%, confidence medium.",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Strong stack overlap (workflow design, no-code, APIs, prompt engineering, CRM); gaps: 5+ yrs bar vs candidate's 4+, and RAG/vector DBs. Posting age unknown (mid-range Remotive ID suggests weeks-to-months old) — verify live and confirm which 'Tempo' before qualification. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Strong stack overlap (workflow design, no-code, APIs, prompt engineering, CRM); gaps: 5+ yrs bar vs candidate's 4+, and RAG/vector DBs. Posting age unknown (mid-range Remotive ID suggests weeks-to-months old) — verify live and confirm which 'Tempo' before qualification. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_DIRECT",
+      "apply_url": "https://remotive.com/remote/jobs/all-others/gtm-engineer-4641506",
+      "verification_notes": "Remotive is free; Apply links out to employer. On Wait anyway. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     },
     {
       "id": "yuxi-automation-consultant-20260709b",
@@ -686,7 +734,10 @@
       "recommendation": "Apply Without Demo",
       "reasoning": "Income-bridge freelance track like Mindrift: exact stack match (Zapier/Make/n8n, APIs and API docs, cross-platform CRM/email/PM automation, client-facing English), near-zero application cost, and per-automation pay caps downside while adding a possible revenue stream alongside the full-time search. Discounts vs Mindrift (80): pay is opaque (candidate must propose per-automation rates — prepare a rate card first), posting date unknown, and the Cake.me listing is unverified. Priority B on pure cost-benefit: 15 minutes for optional income barely consumes the weekly quality budget. Acceptance-to-roster probability ~30-40%; 'offer' = first paid automation ~25%. Verify listing open in browser before applying.",
       "evaluated_at": "2026-07-10T08:30:00Z",
-      "notes": "Second scan 2026-07-09 (evening). Income-bridge freelance track (like Mindrift): exact stack match, low application cost, per-automation pay keeps risk low. Posting date unknown — verify open on Cake before applying. Discovered by Opportunity Scout."
+      "notes": "Second scan 2026-07-09 (evening). Income-bridge freelance track (like Mindrift): exact stack match, low application cost, per-automation pay keeps risk low. Posting date unknown — verify open on Cake before applying. Discovered by Opportunity Scout.",
+      "apply_access": "FREE_ACCOUNT",
+      "apply_url": "https://www.cake.me/companies/yuxi/jobs/55e791",
+      "verification_notes": "Cake.me — free account to apply. No payment. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
     }
   ]
 }

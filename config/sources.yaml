@@ -1,6 +1,15 @@
 # Job sources in priority order. The Opportunity Scout works down this list.
 # The Learning Analyst tracks which sources actually produce interviews and
 # proposes reprioritization.
+#
+# ACCESS POLICY (added 2026-07-09 after user hit pay-to-apply walls):
+# - Every recorded opportunity MUST carry a direct, FREE application path —
+#   employer ATS (Workable, Ashby, Greenhouse, Lever, JazzHR) or company
+#   careers page. Aggregator links are for discovery only, never as apply_url.
+# - PAYWALLED sources (payment/subscription/"upgrade" to view or apply) are
+#   banned: FlexJobs (paid membership), Jobright-style mirrors, premium boards.
+# - FREE_ACCOUNT sources (free signup to apply: Wellfound, Cake.me, community
+#   boards) are allowed but must be labeled so the user knows before clicking.
 
 sources:
   - name: Company career pages
@@ -27,12 +36,16 @@ sources:
   - name: YC Startup Jobs
     priority: 8
     url: https://www.ycombinator.com/jobs
-  - name: FlexJobs
-    priority: 9
   - name: Indeed
-    priority: 10
+    priority: 9
   - name: Glassdoor
-    priority: 11
+    priority: 10
+
+banned_sources:
+  - name: FlexJobs
+    reason: "Paid membership required to apply — removed 2026-07-09"
+  - name: jobright.ai
+    reason: "Signup/upgrade wall on mirrored listings — discovery only, never as apply path"
 
 # Dream companies to check directly on every scan (add your own):
 target_companies: []

@@ -42,6 +42,24 @@ Job title, company, salary (if listed), location/remote scope, employment type,
 job URL, posted date, deadline, required skills, preferred skills, and quick
 company facts (industry, size, funding stage if easily found).
 
+## Free-application rule (hard requirement)
+
+The user applies for free, always. For every find you MUST also record:
+
+- `apply_url` — the **direct, free** application path: the employer's own ATS
+  (Workable, Ashby, Greenhouse, Lever, JazzHR) or careers page. Trace the
+  aggregator's "Apply" target or search `site:apply.workable.com <company>`,
+  `site:jobs.ashbyhq.com <company>`, `site:boards.greenhouse.io <company>`,
+  `site:jobs.lever.co <company>` to find it.
+- `apply_access` — one of: FREE_DIRECT (no account needed) / FREE_ACCOUNT
+  (free signup required — label which site) / PAYWALL / LOGIN_WALL_UNKNOWN.
+
+PAYWALL findings are unusable as apply paths: either resolve the same job's
+free employer listing or drop the find. Never record a FlexJobs, jobright.ai,
+or other pay/upgrade-gated URL as the application path (see
+`config/sources.yaml` banned_sources). When you cannot resolve a free path,
+say so explicitly in the record — never leave the user to discover a paywall.
+
 ## Output
 
 1. Append each new opportunity to `memory/applications.json` with
