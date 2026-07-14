@@ -664,7 +664,8 @@
       "notes": "Second scan 2026-07-09 (evening). Requirements read like the candidate's profile (Zapier/Make/n8n + Anthropic API + webhooks; JS and Airtable as nice-to-haves). Staleness risk: mirrors date it around April 2026 (~3 months) — verify still open before investing. US-hours from WAT = afternoon/evening shift, feasible. Discovered by Opportunity Scout.",
       "apply_access": "FREE_DIRECT",
       "apply_url": "https://apply.workable.com/pavago/j/C3711B0593",
-      "verification_notes": "Workable — free direct apply. Verify liveness first (posted ~April). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
+      "verification_notes": "Workable — free direct apply. Verify liveness first (posted ~April). [Classified from known platform access models 2026-07-09; browser verification pending network policy change.] | 2026-07-14: posting still syndicated on euremotejobs.com (current index) — weakens staleness concern, but direct liveness check still needed (network blocked).",
+      "last_updated": "2026-07-14T08:23:13.855313+00:00"
     },
     {
       "id": "tempo-gtm-engineer-20260709b",
@@ -738,6 +739,31 @@
       "apply_access": "FREE_ACCOUNT",
       "apply_url": "https://www.cake.me/companies/yuxi/jobs/55e791",
       "verification_notes": "Cake.me — free account to apply. No payment. [Classified from known platform access models 2026-07-09; browser verification pending network policy change.]"
+    },
+    {
+      "id": "n8n-community-sales-tech-automation-specialist-20260714",
+      "company": "Undisclosed (n8n Community — sales agency)",
+      "role": "Sales Tech & Automation Specialist (Ongoing Remote Work, CRM + Databases)",
+      "status": "QUALIFIED",
+      "discovered_at": "2026-07-14T08:23:13.855313+00:00",
+      "discovered_by": "opportunity-scout (inline, CACO — Indeed/Dice connectors + WebSearch)",
+      "source": "n8n Community jobs board (cross-posted to Make Community)",
+      "url": "https://community.n8n.io/t/hiring-sales-tech-automation-specialist-ongoing-remote-work-crm-databases/300286",
+      "apply_url": "https://community.n8n.io/t/hiring-sales-tech-automation-specialist-ongoing-remote-work-crm-databases/300286",
+      "apply_access": "FREE_ACCOUNT",
+      "verification_notes": "Free n8n community account needed to reply. Cross-posted to Make community (t/111068) — signals real hiring intent. Employer unnamed sales agency; pay undisclosed; remote scope stated as 'ongoing remote work', worldwide eligibility unconfirmed. Network policy blocks direct browser check — user should open thread to confirm details before any packet work.",
+      "salary": "Not disclosed",
+      "location": "Remote (scope unconfirmed — likely flexible; community poster)",
+      "employment_type": "Ongoing contract/freelance (implied)",
+      "posted_date": "unknown (indexed as of 2026-07-14; thread id 300286 suggests recent)",
+      "score": 78,
+      "tier": "C",
+      "investment_level": 1,
+      "priority": "C",
+      "recommendation": "Wait — user opens thread first (pay, employer, scope), then Level 1–2 reply-application if terms are sane",
+      "qualification_notes": "Fit: strong tool match (n8n + Make cross-post, CRM + databases = user's core stack; sales-ops systems mirror the published ai-lead-qualification-agent demo — direct portfolio proof). 'Sales experience not required, wants a systems builder' fits profile exactly. Risks mirror other anonymous community posters: unnamed employer, no pay stated, no scope confirmation — capped at Tier C until thread details known. Scored by CACO inline (qualification framework per config/scoring.yaml).",
+      "qualified_at": "2026-07-14T08:23:13.855313+00:00",
+      "qualified_by": "CACO (inline SDE)"
     }
   ]
 }

@@ -29,3 +29,11 @@ Every significant decision (apply/skip, investment level, demo yes/no) gets one 
 - [2026-07-10] YUXI/Automation Consultant (per-automation freelance): score 78, tier C, level 1, Apply Without Demo — Mindrift-style income bridge, exact stack, near-zero cost; prepare rate card and verify Cake listing; priority B on cost-benefit.
 - [2026-07-10] Undisclosed (Clay community)/Fractional GTM & Ops Engineer: score 75, tier C, level 1, Apply Without Demo — best rate in pipeline ($80-90/hr) but Clay itself is a genuine gap in a Clay-native applicant pool; honest 15-min reply only, never claim Clay; priority C.
 - [2026-07-10] Tempo/GTM Engineer: score 71, tier C, level 1, Wait — hard 5+ yrs bar vs 4+, RAG/vector-DB and waterfall-enrichment gaps, high-volume worldwide channel; cannot be a top-quartile applicant today.
+
+## 2026-07-14 — Scan #3 (first cycle using Indeed + Dice connectors)
+- **New connectors used:** Indeed and Dice job-search MCP connectors now available — real API results instead of search snippets. Verdict: both are US-centric; Dice ~100% US-authorization-required (unusable for worldwide-remote), Indeed US index similar; Indeed Nigeria index returned zero matches. Keep as supplementary sources; primary channel remains ATS-domain and community-board searches.
+- **Rejected (geographic):** ECI Software Solutions "Business Analyst, AI Workflows" — outstanding JD fit (n8n, Zapier-class, Claude Code named verbatim) but US-Remote only, EST/CST hours, domestic travel. Hard reject per worldwide-remote rule. Logged as the strongest fit-reject to date; if ECI ever opens global remote, revisit immediately.
+- **Rejected (geographic):** Bluelight Consulting "Agentic AI Solutions Architect" — Remote LatAm only.
+- **New find (1):** n8n Community "Sales Tech & Automation Specialist" (thread 300286, cross-posted to Make community) — scored 78, Tier C, Priority C, recommendation Wait: user must open thread for employer/pay/scope before packet work. FREE_ACCOUNT access.
+- **Pavago update:** posting still syndicated on euremotejobs.com as of today — staleness concern weakened, liveness still unverified.
+- **Pipeline position:** best unapplied remain Optimize IS (91) and Moonland (90); both still awaiting user go-ahead for /apply.
